@@ -49,45 +49,45 @@ Top commercial Enterprise Email Security Gateways (SEG), Cloud Email Security Su
 
 ## 🔓 Open-Source GitHub Projects
 
-Leading open-source email security proxies, MTA filters, DMARC parsers, and phishing simulation tools sorted by **GitHub Star Count (Descending)** ⭐:
+Leading open-source email security proxies, MTA filters, DMARC parsers, and phishing simulation tools sorted by **GitHub Stars_Count (Descending)** ⭐:
 
-- **[Gophish](https://github.com/gophish/gophish)** [![GitHub stars](https://img.shields.io/github/stars/gophish/gophish?style=social&color=white)](https://github.com/gophish/gophish/stargazers) 🎣  
+- **[Gophish](https://github.com/gophish/gophish)** [![GitHub_Stars](https://img.shields.io/github/stars/gophish/gophish?style=social&color=white)](https://github.com/gophish/gophish/stargazers) 🎣  
   Open-source phishing simulation platform for security awareness training. Provides web UI for campaign setup and user reporting. (**MIT**)
 
-- **[mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized)** [![GitHub stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers) 🐮  
+- **[mailcow: dockerized](https://github.com/mailcow/mailcow-dockerized)** [![GitHub_Stars](https://img.shields.io/github/stars/mailcow/mailcow-dockerized?style=social&color=white)](https://github.com/mailcow/mailcow-dockerized/stargazers) 🐮  
   Complete, modern email suite powered by Docker with integrated Rspamd filtering, DKIM, DMARC, and antivirus protection. (**GPL-3.0**)
 
-- **[ClamAV](https://github.com/Cisco-Talos/clamav)** [![GitHub stars](https://img.shields.io/github/stars/Cisco-Talos/clamav?style=social&color=white)](https://github.com/Cisco-Talos/clamav/stargazers) 🦠  
+- **[ClamAV](https://github.com/Cisco-Talos/clamav)** [![GitHub_Stars](https://img.shields.io/github/stars/Cisco-Talos/clamav?style=social&color=white)](https://github.com/Cisco-Talos/clamav/stargazers) 🦠  
   De facto open-source antivirus engine for email gateway virus inspection and attachment scanning. (**GPL-2.0**)
 
-- **[Modoboa](https://github.com/modoboa/modoboa)** [![GitHub stars](https://img.shields.io/github/stars/modoboa/modoboa?style=social&color=white)](https://github.com/modoboa/modoboa/stargazers) ✉️  
+- **[Modoboa](https://github.com/modoboa/modoboa)** [![GitHub_Stars](https://img.shields.io/github/stars/modoboa/modoboa?style=social&color=white)](https://github.com/modoboa/modoboa/stargazers) ✉️  
   Mail hosting and management platform with built-in DKIM signing, DMARC reporting, SPF checks, and Rspamd integration. (**ISC**)
 
-- **[Rspamd](https://github.com/rspamd/rspamd)** [![GitHub stars](https://img.shields.io/github/stars/rspamd/rspamd?style=social&color=white)](https://github.com/rspamd/rspamd/stargazers) ⚡  
+- **[Rspamd](https://github.com/rspamd/rspamd)** [![GitHub_Stars](https://img.shields.io/github/stars/rspamd/rspamd?style=social&color=white)](https://github.com/rspamd/rspamd/stargazers) ⚡  
   Fast, modular open-source spam filtering system featuring neural network evaluation, Lua scripting, SPF/DKIM/DMARC/ARC validation, and web console. (**Apache-2.0**)
 
-- **[parsedmarc](https://github.com/domainaware/parsedmarc)** [![GitHub stars](https://img.shields.io/github/stars/domainaware/parsedmarc?style=social&color=white)](https://github.com/domainaware/parsedmarc/stargazers) 📊  
+- **[parsedmarc](https://github.com/domainaware/parsedmarc)** [![GitHub_Stars](https://img.shields.io/github/stars/domainaware/parsedmarc?style=social&color=white)](https://github.com/domainaware/parsedmarc/stargazers) 📊  
   Python CLI & parser for processing aggregate and forensic DMARC reports into Elasticsearch or Grafana dashboards. (**Apache-2.0**)
 
-- **[Spoofy](https://github.com/MattKeeley/Spoofy)** [![GitHub stars](https://img.shields.io/github/stars/MattKeeley/Spoofy?style=social&color=white)](https://github.com/MattKeeley/Spoofy/stargazers) 🕵️‍♂️  
+- **[Spoofy](https://github.com/MattKeeley/Spoofy)** [![GitHub_Stars](https://img.shields.io/github/stars/MattKeeley/Spoofy?style=social&color=white)](https://github.com/MattKeeley/Spoofy/stargazers) 🕵️‍♂️  
   Domain audit tool to check if target domain lists can be spoofed based on SPF and DMARC record configurations. (**MIT**)
 
-- **[SpamAssassin](https://github.com/apache/spamassassin)** [![GitHub stars](https://img.shields.io/github/stars/apache/spamassassin?style=social&color=white)](https://github.com/apache/spamassassin/stargazers) 📬  
+- **[SpamAssassin](https://github.com/apache/spamassassin)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/spamassassin?style=social&color=white)](https://github.com/apache/spamassassin/stargazers) 📬  
   Extensible heuristic anti-spam engine combining Bayesian filtering, DNS blocklists, and signature rules. (**Apache-2.0**)
 
-- **[Sublime Platform](https://github.com/sublime-security/sublime-platform)** [![GitHub stars](https://img.shields.io/github/stars/sublime-security/sublime-platform?style=social&color=white)](https://github.com/sublime-security/sublime-platform/stargazers) 🚀  
+- **[Sublime Platform](https://github.com/sublime-security/sublime-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/sublime-security/sublime-platform?style=social&color=white)](https://github.com/sublime-security/sublime-platform/stargazers) 🚀  
   Open platform for email attack detection, prevention, and threat hunting using detection-as-code rules. (**Apache-2.0**)
 
-- **[Pyzor](https://github.com/SpamExperts/pyzor)** [![GitHub stars](https://img.shields.io/github/stars/SpamExperts/pyzor?style=social&color=white)](https://github.com/SpamExperts/pyzor/stargazers) 🛡️  
+- **[Pyzor](https://github.com/SpamExperts/pyzor)** [![GitHub_Stars](https://img.shields.io/github/stars/SpamExperts/pyzor?style=social&color=white)](https://github.com/SpamExperts/pyzor/stargazers) 🛡️  
   Collaborative network spam filtering system using digest fingerprints against a shared clearinghouse. (**GPL-2.0**)
 
-- **[OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC)** [![GitHub stars](https://img.shields.io/github/stars/trusteddomainproject/OpenDMARC?style=social&color=white)](https://github.com/trusteddomainproject/OpenDMARC/stargazers) 🔑  
+- **[OpenDMARC](https://github.com/trusteddomainproject/OpenDMARC)** [![GitHub_Stars](https://img.shields.io/github/stars/trusteddomainproject/OpenDMARC?style=social&color=white)](https://github.com/trusteddomainproject/OpenDMARC/stargazers) 🔑  
   Open-source milter implementation of DMARC verification and report generation for Sendmail and Postfix. (**BSD-3-Clause**)
 
-- **[OpenDKIM](https://github.com/trusteddomainproject/OpenDKIM)** [![GitHub stars](https://img.shields.io/github/stars/trusteddomainproject/OpenDKIM?style=social&color=white)](https://github.com/trusteddomainproject/OpenDKIM/stargazers) 🔏  
+- **[OpenDKIM](https://github.com/trusteddomainproject/OpenDKIM)** [![GitHub_Stars](https://img.shields.io/github/stars/trusteddomainproject/OpenDKIM?style=social&color=white)](https://github.com/trusteddomainproject/OpenDKIM/stargazers) 🔏  
   Open-source library and milter for DKIM email message signing and verification. (**BSD-3-Clause**)
 
-- **[MailScanner](https://github.com/MailScanner/mailscanner)** [![GitHub stars](https://img.shields.io/github/stars/MailScanner/mailscanner?style=social&color=white)](https://github.com/MailScanner/mailscanner/stargazers) 🔍  
+- **[MailScanner](https://github.com/MailScanner/mailscanner)** [![GitHub_Stars](https://img.shields.io/github/stars/MailScanner/mailscanner?style=social&color=white)](https://github.com/MailScanner/mailscanner/stargazers) 🔍  
   Mail gateway security system providing malware scanning, spam detection, and content filtering for Postfix & Exim. (**GPL-2.0**)
 
 - **[Proxmox Mail Gateway](https://www.proxmox.com/en/proxmox-mail-gateway)** 🛡️  
@@ -101,7 +101,7 @@ Contributions are welcome! Please follow these guidelines: 🛠️
 
 1. **Fork** the repository. 🍴
 2. **Add/Edit** entries in `README.md` keeping formatting consistent. 📝
-3. **Ensure** links, descriptions, pricing/star badges, and license information are accurate. 💡
+3. **Ensure** links, descriptions, pricing/Stars_Badges, and license information are accurate. 💡
 4. Submit a **Pull Request** with a clear explanation of your changes. 🚀
 
 ---
